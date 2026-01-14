@@ -9,5 +9,9 @@ This is a type of game you will have to Roll until all dice are the same. Click 
 - nanoid
 - HTML5
 
+## ScreenShots
+![Initial Interface](IMG/Initial.png)
+![Winning Interface](IMG/Winning.png)
+
 ## Author
 **Ferdous Hasan**  
